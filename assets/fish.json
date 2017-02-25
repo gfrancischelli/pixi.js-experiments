@@ -1,0 +1,75 @@
+{"frames": [
+
+{
+	"filename": "01.gif",
+	"frame": {"x":0,"y":0,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "02.gif",
+	"frame": {"x":0,"y":65,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "03.gif",
+	"frame": {"x":0,"y":130,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "04.gif",
+	"frame": {"x":0,"y":195,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "05.gif",
+	"frame": {"x":0,"y":260,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "06.gif",
+	"frame": {"x":0,"y":325,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "07.gif",
+	"frame": {"x":0,"y":390,"w":75,"h":65},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":65},
+	"sourceSize": {"w":75,"h":65},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "fish.png",
+	"format": "RGBA8888",
+	"size": {"w":75,"h":455},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ec208e58b44edfca54c8c796ce5c6e7b:be9806c68052f13ec436706e8e833e70:dcecfc1c1c0bc957d31a8a74254868b1$"
+}
+}

@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "pixi.js": "^4.3.5"
+    "pixi.js": "^4.3.5",
+    "rxjs": "^5.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.23.1",
